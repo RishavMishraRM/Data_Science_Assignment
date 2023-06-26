@@ -1,0 +1,16 @@
+06-24 12:32 root         INFO     Jackdaws love my big sphinx of quartz.
+06-24 12:32 myapp.area1  DEBUG    Quick zephyrs blow, vexing daft Jim.
+06-24 12:32 myapp.area1  INFO     How quickly daft jumping zebras vex.
+06-24 12:32 myapp.area2  WARNING  Jail zesty vixen who grabbed pay from quack.
+06-24 12:32 myapp.area2  ERROR    The five boxing wizards jump quickly.
+06-24 12:33 root         CRITICAL System failure: You need to handle the issue now
+06-24 12:33 root         INFO     Hello, World
+06-24 12:33 root         INFO     Jackdaws love my big sphinx of quartz.
+06-24 12:33 myapp.area1  INFO     How quickly daft jumping zebras vex.
+06-24 12:33 myapp.area2  WARNING  Jail zesty vixen who grabbed pay from quack.
+06-24 12:33 myapp.area2  ERROR    The five boxing wizards jump quickly.
+06-24 12:33 root         INFO     Hello, World
+06-24 12:34 root         INFO     Jackdaws love my big sphinx of quartz.
+06-24 12:34 myapp.area1  INFO     How quickly daft jumping zebras vex.
+06-24 12:34 myapp.area2  WARNING  Jail zesty vixen who grabbed pay from quack.
+06-24 12:34 myapp.area2  ERROR    The five boxing wizards jump quickly.
