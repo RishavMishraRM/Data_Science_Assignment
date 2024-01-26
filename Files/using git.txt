@@ -1,0 +1,90 @@
+** Codes :
+
+-u :- Upstream
+- rm :- remove
+- v :- version
+-m :- message
+-d :- delete
+
+
+** File status beside them
+
+
+U - Untracked
+A - Added
+M - Modified
+
+
+** To Link GitCli to our github account : (1st time only)
+
+
+git config --global user.name “Rishav Mishra” :- To setup username for the credit while version review
+
+git config --global user.name :- check name of the user connected
+
+git config --global user.email “rishav.mishra.rkm@gmail.com” :- To setup email for the credit while version review
+
+git config --global user.email :- check email of the user who coded
+
+
+
+** Code Management: 
+
+
+git remote -v :- To check if the folder is linked to a git repo
+
+git remote rm origin :- To remove the git repo linked from the folder
+
+git init :- initialising a new github repo
+
+git add . :- to track all the file and merge in git folder / after modification also used
+
+git status :- after adding files which files are pending to be updated
+
+git rm --cached . :- remove the file from status so nothing is pending and waiting to be added in git repo
+
+git commit -m "first commit for modular coding" :- to make message beside code in github
+
+git branch :- to check which is the branch in git repo
+
+git branch -M main :- rename the master branch to main branch
+
+git remote add origin https://github.com/RishavMishraRM/Modular_Coding.git :- Link our folder to our github repo created
+
+git remote -v :- again to check the connection of github
+
+git push origin main :- push my folder code to repo connected to it 
+
+git pull origin main:- to pull from the configured repo
+
+git clone https://github.com/RishavMishraRM/Modular_Coding.git :- to clone the available repo
+
+git branch :- to check the number of branch of a repo
+
+git branch developer_a :- a new branch with name developer_a is created
+
+git checkout developer_a :- to go in the developer_a branch
+
+git merge developer_a :- to merge the developer a branch and the main branch
+
+git branch -d developer_a :- delete the branch named developer_a
+
+
+** After updating old file or adding a new file in the same folder we will use again 
+
+
+git add . :- to add the file
+git status :- which file is updated
+git commit -m "Created load_test.py" :- To track commited information
+git push origin main :- pushing the code to git repo
+
+
+** To remove Conflict in repo
+
+git pull origin main :- to pull from github
+(accept both changes, incoming or etc)
+git add .
+git status 
+git commit -m "resolved conflict"
+git push origin main
+
