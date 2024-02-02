@@ -8,7 +8,7 @@
 3. titanic_train.csv
 4. heart.csv
 5. winequality-red.csv
-6. 
+6. housepricedata.csv
 
 ### Command File
 1. using git.txt
