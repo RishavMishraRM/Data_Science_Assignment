@@ -2,7 +2,7 @@
 
 ### Ipython Notebooks
 1. ADAboosting.ipynb
-2. 
+2. Bagging_Classifier.ipynb
 
 ### Data
 1. iris.csv
