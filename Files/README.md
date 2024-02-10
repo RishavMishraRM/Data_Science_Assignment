@@ -7,7 +7,7 @@
 4. GradientBoosting.ipynb
 5. KNN.ipynb
 6. PCA.ipynb
-7. 
+7. SVM_kerenels_&_SVM_regressor.ipynb
 
 ### Data
 1. iris.csv
