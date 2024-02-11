@@ -9,7 +9,7 @@
 6. PCA.ipynb
 7. SVM_kerenels_&_SVM_regressor.ipynb
 8. SVR.ipynb
-9. 
+9. SVR_All.ipynb
 
 ### Data
 1. iris.csv
