@@ -10,7 +10,7 @@
 7. SVM_kerenels_&_SVM_regressor.ipynb
 8. SVR.ipynb
 9. SVR_All.ipynb
-10. 
+10. Stacking.ipynb
 
 ### Data
 1. iris.csv
