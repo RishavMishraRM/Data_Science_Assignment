@@ -21,7 +21,7 @@
 4. heart.csv
 5. winequality-red.csv
 6. housepricedata.csv
-7. 
+7. Admission_Predict.csv
 
 ### Command File
 1. using git.txt
