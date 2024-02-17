@@ -16,7 +16,7 @@
 13. Admission_Prediction.ipynb
 14. Unsupervised_Learning.ipynb
 15. XGBoost.ipynb
-16. 
+16. mnist_classification.ipynb
 
 ### Data
 1. iris.csv
